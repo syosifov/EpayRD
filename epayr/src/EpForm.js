@@ -14,7 +14,7 @@ function EpForm(props) {
     }, [props]);
 
     useEffect(() => {
-        if (ENCODED) {
+        if (ENCODED && !isSubmitted) {
             formRef.current.submit();
             setIsSubmitted(true)
         }
