@@ -1,2 +1,2 @@
 This is an experimental project to test the link of React - Django application to Epay. 
-More information is available in the [Manual](manual.pdf) in Bulgarian.
+More information is available in the [Manual.pdf](manual.pdf) in Bulgarian. Just to let you know, the file contains hyperlinks that don't work when you open it via GitHub.
